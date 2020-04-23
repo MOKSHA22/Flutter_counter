@@ -2,7 +2,7 @@
 
 Bloc pattern demo
 
-## Getting Started
+## Getting Started with Bloc architecture
 
 This project is a starting point for a Flutter application.
 
