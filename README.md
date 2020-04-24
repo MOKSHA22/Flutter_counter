@@ -3,6 +3,7 @@
 Bloc pattern demo
 
 ## Getting Started with Bloc architecture
+## Best practice
 
 This project is a starting point for a Flutter application.
 
