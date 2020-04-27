@@ -1,6 +1,6 @@
 # blocpattern
 
-Bloc pattern demo
+Bloc pattern demo app
 
 ## Getting Started with Bloc architecture
 ## Best practice
