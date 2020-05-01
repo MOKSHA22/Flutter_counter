@@ -24,7 +24,7 @@ class CounterScreen extends StatelessWidget {
            builder: (BuildContext context, int state){
              return Text('Counter value : $state',
                style: TextStyle(
-                   fontSize: 30.0
+                   fontSize: 20.0
                ),
              );
            },
